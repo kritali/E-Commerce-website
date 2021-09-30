@@ -1,0 +1,36 @@
+.content
+{
+	margin-top: 75px;
+}
+
+.signup_img
+{	
+        height: auto;
+	width: 100%;
+
+
+}
+.casebox{
+    
+margin-top: 75px;
+    height:550px;
+}
+	
+footer{
+    
+    background-color:#505050; 
+    color:#9d9d9d; 
+    bottom: 0; 
+    width: 100%;
+    padding: 10px 0px;
+    
+}
+.footer_style {
+	margin-left: 50px;
+	color: white;
+	text-decoration: none;
+}
+.footer_style a {
+	color: white;
+	text-decoration: none;
+}
